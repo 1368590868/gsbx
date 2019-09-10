@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/gsbx/js/chunk-f26e0e1e.0125477b.js"
   },
   {
-    "revision": "a782baa8633b1359f9686ffad17e0d76",
-    "url": "/gsbx/fonts/fontello.a782baa8.woff"
+    "revision": "9354499c2824248511adf85fdf8e4c37",
+    "url": "/gsbx/img/fontello.9354499c.svg"
   },
   {
     "revision": "e63a5fb3771febfe467a",
@@ -84,20 +84,20 @@ self.__precacheManifest = [
     "url": "/gsbx/fonts/fontello.8d4a4e6f.woff2"
   },
   {
-    "revision": "068ca2b316db98037bebdd1e4f1b9459",
-    "url": "/gsbx/fonts/fontello.068ca2b3.ttf"
+    "revision": "a782baa8633b1359f9686ffad17e0d76",
+    "url": "/gsbx/fonts/fontello.a782baa8.woff"
   },
   {
-    "revision": "9354499c2824248511adf85fdf8e4c37",
-    "url": "/gsbx/img/fontello.9354499c.svg"
+    "revision": "e73a0647198cfe970de0f003be95cc51",
+    "url": "/gsbx/fonts/fontello.e73a0647.eot"
   },
   {
     "revision": "5825f033c6ff12cd1ed1f3c99dff5e4b",
     "url": "/gsbx/img/logobg.svg"
   },
   {
-    "revision": "e73a0647198cfe970de0f003be95cc51",
-    "url": "/gsbx/fonts/fontello.e73a0647.eot"
+    "revision": "068ca2b316db98037bebdd1e4f1b9459",
+    "url": "/gsbx/fonts/fontello.068ca2b3.ttf"
   },
   {
     "revision": "d847713f6ab481b99726362a57b3ea82",
